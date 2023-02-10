@@ -1,0 +1,13 @@
+Fused Silica Parameters:
+
+#Bonds/Lattice Constant/Density: https://materialsproject.org/materials/mp-6930/
+
+Bandgap: Astašauskas et al., Optical and electronic properties of amorphous silicon dioxide by single and double electron spectroscopy, Journal of Electron Spectroscopy and Related Phenomena, 241 (2020) https://doi.org/10.1016/j.elspec.2019.02.008
+
+p.218 Nekrashevich, S.S., Gritsenko, V.A. Electronic structure of silicon dioxide (a review). Phys. Solid State 56, 207–222 (2014). https://doi.org/10.1134/S106378341402022X
+
+Effective Masses: p.220 Nekrashevich, S.S., Gritsenko, V.A. Electronic structure of silicon dioxide (a review). Phys. Solid State 56, 207–222 (2014). https://doi.org/10.1134/S106378341402022X
+
+Electron Affinity: Astašauskas et al., Optical and electronic properties of amorphous silicon dioxide by single and double electron spectroscopy, Journal of Electron Spectroscopy and Related Phenomena, 241 (2020) https://doi.org/10.1016/j.elspec.2019.02.008
+
+Refractive Index:  I. H. Malitson. Interspecimen comparison of the refractive index of fused silica, J. Opt. Soc. Am. 55, 1205-1208 (1965)

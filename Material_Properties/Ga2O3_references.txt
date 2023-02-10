@@ -1,0 +1,13 @@
+Ga2O3 Parameters:
+
+Effective Mass: Table in our manscript with Peelaers
+
+Bandgap: Peelaers, H. and Van de Walle, C.G. (2015), Brillouin zone and band structure of ß-Ga2O3. Phys. Status Solidi B, 252: 828-832. https://doi.org/10.1002/pssb.201451551
+
+Density: Stepanov et al., Rev. Adv. Mater. Sci. 44 (2016) 63-86
+NumBonds/Lattice Constant: Peelaers, H. and Van de Walle, C.G. (2015), Brillouin zone and band structure of ß-Ga2O3. Phys. Status Solidi B, 252: 828-832. https://doi.org/10.1002/pssb.201451551
+
+Electron Affinity:  M. Mohamed, K. Irmscher, C. Janowitz, Z. Galazka, R. Manzke, and R. Fornari
+, "Schottky barrier height of Au on the transparent semiconducting oxide ß-Ga2O3", Appl. Phys. Lett. 101, 132106 (2012) https://doi.org/10.1063/1.4755770 
+
+Index of Refraction: Indranil Bhaumik, R. Bhatt, S. Ganesamoorthy, A. Saxena, A. K. Karnal, P. K. Gupta, A. K. Sinha, and S. K. Deb, "Temperature-dependent index of refraction of monoclinic Ga2O3 single crystal," Appl. Opt. 50, 6006-6010 (2011) 

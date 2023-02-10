@@ -1,0 +1,2 @@
+ValenceBand,ConductionBand,CrystalDirection,mvb,mcb,mcb_indirect,Bandgap,IndirectBandgap,ElectronAffinity,ValenceBandShape,CollisionTime,epsilonStatic,epsilonInf,LatticeConstant,NumBonds,Density,DeformationPotential,SpeedofSound,PhononFrequency,Tphonon,SellmeierForm,A,B1,C1,B2,C2,MinWavelength,MaxWavelength,Wavelength,n,kappa
+HeavyHole,CB1,[111],2.21,1.38,,6.5,,4,Parabolic,0.01,,,12,384,4560,,,,,2,1,2.282,0.01185,3.27644,282.734,0.4,5,,,

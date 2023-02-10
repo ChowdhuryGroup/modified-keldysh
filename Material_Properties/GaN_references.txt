@@ -1,0 +1,3 @@
+GaN Parameters:
+All found in:
+Bougrov V., Levinshtein M.E., Rumyantsev S.L., Zubrilov A., in Properties of Advanced SemiconductorMaterials GaN, AlN, InN, BN, SiC, SiGe . Eds. Levinshtein M.E., Rumyantsev S.L., Shur M.S., John Wiley & Sons, Inc., New York, 2001, 1-30. 

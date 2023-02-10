@@ -1,0 +1,8 @@
+GaP References:
+
+Band Gap(s):
+Electron/Hole Masses:
+
+Deformation Potential: Mathieu et al., Phys. Rev. B 19 (1979) 2209
+epsilon (static and high frequncy): ioffe.ru -> Gallium Phosphide: Basic Parameters at 300K
+Speed of Sound: mt-berlin.com -> gallium phosphide 
